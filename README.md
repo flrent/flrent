@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-I am a Staff Software Engineer and tech lead based in San Francisco, California. I am currently working at [https://flickr.com](Flickr), on front-end and data engineering projects.
+I am a Staff Software Engineer and tech lead based in San Francisco, California. I am currently working at [Flickr](https://flickr.com), on front-end and data engineering projects.
 
 I'm also currently researching and experimenting with LLMs and AI.
 
-You can learn more about me here → [https://florentlamoureux.fr](florentlamoureux.fr)
+You can learn more about me here → [florentlamoureux.fr](https://florentlamoureux.fr)
